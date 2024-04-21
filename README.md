@@ -5,7 +5,7 @@ I'm Balaji Pillalamarri, a final year BTech student at the University of Delhi. 
 - 🔭 I’m currently working on: Flutter projects at Persist Ventures
 - 🌱 I’m currently learning: iOS development
 - 😄 Pronouns: He/Him
-Feel free to reach out for collaboration or just to connect!
+- 🤝 Feel free to reach out for collaboration or just to connect!
 
 
 
